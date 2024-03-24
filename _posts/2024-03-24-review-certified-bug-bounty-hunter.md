@@ -10,7 +10,7 @@ tags: certs cbbh htb
 
 Towards the end of last year, as the first step of a long overdue push to becoming an ethical hacker, I purchased an annual subscription to [HackTheBox Academy](https://academy.hackthebox.com/) in pursuit of the [Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) (CBBH) certification. I ended up taking the exam just after the new year, and thankfully received my certification a few weeks later. Given how helpful I'd found other people's reviews in the lead up to purchasing the subscription and in preparation for the exam itself, I thought I should give a quick rundown of my journey too.
 
-![CBBH Certificate](/cbbh-certificate.png)
+![CBBH Certificate](/assets/img/cbbh-certificate.png)
 
 ### The Course
 
